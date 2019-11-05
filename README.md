@@ -1,6 +1,6 @@
 # Create Volocity App
 
-https://github.com/MichaelLynnCSU/HerokuSpringVolocity
+https://github.com/MichaelLynnCSU/HerokuSparkVolocity
 
 # AWSSparkVolocity
 
